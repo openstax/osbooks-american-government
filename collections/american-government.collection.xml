@@ -1,0 +1,222 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11995</md:content-id>
+    <md:title>American Government</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>5bcc0e59-7345-421d-8507-a1e4608685e8</md:uuid>
+<md:slug>american-government</md:slug>
+</metadata>
+  <col:content>
+    <col:module document="m62049"/>
+    <col:subcollection>
+      <md:title>Students and the System</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>American Government and Civic Engagement</md:title>
+          <col:content>
+            <col:module document="m58955"/>
+            <col:module document="m58956"/>
+            <col:module document="m58957"/>
+            <col:module document="m58958"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>The Constitution and Its Origins</md:title>
+          <col:content>
+            <col:module document="m58960"/>
+            <col:module document="m58961"/>
+            <col:module document="m58962"/>
+            <col:module document="m58963"/>
+            <col:module document="m58964"/>
+            <col:module document="m58965"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>American Federalism</md:title>
+          <col:content>
+            <col:module document="m58966"/>
+            <col:module document="m58967"/>
+            <col:module document="m58968"/>
+            <col:module document="m58969"/>
+            <col:module document="m58970"/>
+            <col:module document="m58971"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Individual Agency and Action</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Civil Liberties</md:title>
+          <col:content>
+            <col:module document="m58976"/>
+            <col:module document="m58977"/>
+            <col:module document="m58978"/>
+            <col:module document="m58979"/>
+            <col:module document="m58980"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Civil Rights</md:title>
+          <col:content>
+            <col:module document="m58981"/>
+            <col:module document="m58982"/>
+            <col:module document="m58983"/>
+            <col:module document="m58984"/>
+            <col:module document="m58985"/>
+            <col:module document="m62048"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>The Politics of Public Opinion</md:title>
+          <col:content>
+            <col:module document="m58986"/>
+            <col:module document="m58987"/>
+            <col:module document="m58988"/>
+            <col:module document="m58989"/>
+            <col:module document="m58990"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Voting and Elections</md:title>
+          <col:content>
+            <col:module document="m58991"/>
+            <col:module document="m58992"/>
+            <col:module document="m58993"/>
+            <col:module document="m58994"/>
+            <col:module document="m58995"/>
+            <col:module document="m58996"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Toward Collective Action: Mediating Institutions</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>The Media</md:title>
+          <col:content>
+            <col:module document="m58997"/>
+            <col:module document="m58998"/>
+            <col:module document="m58999"/>
+            <col:module document="m59000"/>
+            <col:module document="m59003"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Political Parties</md:title>
+          <col:content>
+            <col:module document="m59004"/>
+            <col:module document="m59016"/>
+            <col:module document="m59010"/>
+            <col:module document="m59013"/>
+            <col:module document="m59014"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Interest Groups and Lobbying</md:title>
+          <col:content>
+            <col:module document="m59017"/>
+            <col:module document="m59018"/>
+            <col:module document="m59019"/>
+            <col:module document="m59020"/>
+            <col:module document="m59041"/>
+            <col:module document="m59025"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Delivering Collective Action: Formal Institutions</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Congress</md:title>
+          <col:content>
+            <col:module document="m59027"/>
+            <col:module document="m59028"/>
+            <col:module document="m59029"/>
+            <col:module document="m59044"/>
+            <col:module document="m59034"/>
+            <col:module document="m59035"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>The Presidency</md:title>
+          <col:content>
+            <col:module document="m59048"/>
+            <col:module document="m59050"/>
+            <col:module document="m59051"/>
+            <col:module document="m59052"/>
+            <col:module document="m59053"/>
+            <col:module document="m59055"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>The Courts</md:title>
+          <col:content>
+            <col:module document="m59059"/>
+            <col:module document="m59060"/>
+            <col:module document="m59061"/>
+            <col:module document="m59062"/>
+            <col:module document="m59064"/>
+            <col:module document="m59068"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>State and Local Government</md:title>
+          <col:content>
+            <col:module document="m59069"/>
+            <col:module document="m59070"/>
+            <col:module document="m59071"/>
+            <col:module document="m59072"/>
+            <col:module document="m59074"/>
+            <col:module document="m59075"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>The Outputs of Government</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>The Bureaucracy</md:title>
+          <col:content>
+            <col:module document="m59076"/>
+            <col:module document="m59077"/>
+            <col:module document="m59078"/>
+            <col:module document="m59079"/>
+            <col:module document="m59080"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Domestic Policy</md:title>
+          <col:content>
+            <col:module document="m59081"/>
+            <col:module document="m59082"/>
+            <col:module document="m59083"/>
+            <col:module document="m59084"/>
+            <col:module document="m59085"/>
+            <col:module document="m59086"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Foreign Policy</md:title>
+          <col:content>
+            <col:module document="m59087"/>
+            <col:module document="m59088"/>
+            <col:module document="m59089"/>
+            <col:module document="m59090"/>
+            <col:module document="m59091"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:module document="m58972"/>
+    <col:module document="m58973"/>
+    <col:module document="m58974"/>
+    <col:module document="m58975"/>
+    <col:module document="m62053"/>
+  </col:content>
+</col:collection>
