@@ -1,14 +1,14 @@
 <col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-    <md:content-id>col11995</md:content-id>
-    <md:title>American Government</md:title>
+    <md:content-id>col26739</md:content-id>
+    <md:title>American Government 2e</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
-    <md:uuid>5bcc0e59-7345-421d-8507-a1e4608685e8</md:uuid>
-<md:slug>american-government</md:slug>
+    <md:uuid>9d8df601-4f12-4ac1-8224-b450bf739e5f</md:uuid>
+<md:slug>american-government-2e</md:slug>
 </metadata>
   <col:content>
-    <col:module document="m62049"/>
+    <col:module document="m72414"/>
     <col:subcollection>
       <md:title>Students and the System</md:title>
       <col:content>
@@ -16,9 +16,9 @@
           <md:title>American Government and Civic Engagement</md:title>
           <col:content>
             <col:module document="m58955"/>
-            <col:module document="m58956"/>
-            <col:module document="m58957"/>
-            <col:module document="m58958"/>
+            <col:module document="m72415"/>
+            <col:module document="m72416"/>
+            <col:module document="m72418"/>
           </col:content>
         </col:subcollection>
         <col:subcollection>
@@ -35,12 +35,12 @@
         <col:subcollection>
           <md:title>American Federalism</md:title>
           <col:content>
-            <col:module document="m58966"/>
-            <col:module document="m58967"/>
-            <col:module document="m58968"/>
-            <col:module document="m58969"/>
-            <col:module document="m58970"/>
-            <col:module document="m58971"/>
+            <col:module document="m72419"/>
+            <col:module document="m72420"/>
+            <col:module document="m72422"/>
+            <col:module document="m72423"/>
+            <col:module document="m72666"/>
+            <col:module document="m72424"/>
           </col:content>
         </col:subcollection>
       </col:content>
@@ -53,30 +53,30 @@
           <col:content>
             <col:module document="m58976"/>
             <col:module document="m58977"/>
-            <col:module document="m58978"/>
-            <col:module document="m58979"/>
-            <col:module document="m58980"/>
+            <col:module document="m72425"/>
+            <col:module document="m72426"/>
+            <col:module document="m72428"/>
           </col:content>
         </col:subcollection>
         <col:subcollection>
           <md:title>Civil Rights</md:title>
           <col:content>
             <col:module document="m58981"/>
-            <col:module document="m58982"/>
-            <col:module document="m58983"/>
-            <col:module document="m58984"/>
-            <col:module document="m58985"/>
-            <col:module document="m62048"/>
+            <col:module document="m72429"/>
+            <col:module document="m72430"/>
+            <col:module document="m72431"/>
+            <col:module document="m72433"/>
+            <col:module document="m72438"/>
           </col:content>
         </col:subcollection>
         <col:subcollection>
           <md:title>The Politics of Public Opinion</md:title>
           <col:content>
-            <col:module document="m58986"/>
-            <col:module document="m58987"/>
-            <col:module document="m58988"/>
-            <col:module document="m58989"/>
-            <col:module document="m58990"/>
+            <col:module document="m72439"/>
+            <col:module document="m72441"/>
+            <col:module document="m72442"/>
+            <col:module document="m72443"/>
+            <col:module document="m72444"/>
           </col:content>
         </col:subcollection>
         <col:subcollection>
@@ -84,8 +84,8 @@
           <col:content>
             <col:module document="m58991"/>
             <col:module document="m58992"/>
-            <col:module document="m58993"/>
-            <col:module document="m58994"/>
+            <col:module document="m72445"/>
+            <col:module document="m72446"/>
             <col:module document="m58995"/>
             <col:module document="m58996"/>
           </col:content>
@@ -99,10 +99,10 @@
           <md:title>The Media</md:title>
           <col:content>
             <col:module document="m58997"/>
-            <col:module document="m58998"/>
+            <col:module document="m72447"/>
             <col:module document="m58999"/>
-            <col:module document="m59000"/>
-            <col:module document="m59003"/>
+            <col:module document="m72448"/>
+            <col:module document="m72449"/>
           </col:content>
         </col:subcollection>
         <col:subcollection>
@@ -111,8 +111,8 @@
             <col:module document="m59004"/>
             <col:module document="m59016"/>
             <col:module document="m59010"/>
-            <col:module document="m59013"/>
-            <col:module document="m59014"/>
+            <col:module document="m72450"/>
+            <col:module document="m72451"/>
           </col:content>
         </col:subcollection>
         <col:subcollection>
@@ -122,8 +122,8 @@
             <col:module document="m59018"/>
             <col:module document="m59019"/>
             <col:module document="m59020"/>
-            <col:module document="m59041"/>
-            <col:module document="m59025"/>
+            <col:module document="m72452"/>
+            <col:module document="m72453"/>
           </col:content>
         </col:subcollection>
       </col:content>
@@ -135,32 +135,32 @@
           <md:title>Congress</md:title>
           <col:content>
             <col:module document="m59027"/>
-            <col:module document="m59028"/>
+            <col:module document="m72458"/>
             <col:module document="m59029"/>
-            <col:module document="m59044"/>
-            <col:module document="m59034"/>
-            <col:module document="m59035"/>
+            <col:module document="m72459"/>
+            <col:module document="m72460"/>
+            <col:module document="m72461"/>
           </col:content>
         </col:subcollection>
         <col:subcollection>
           <md:title>The Presidency</md:title>
           <col:content>
-            <col:module document="m59048"/>
+            <col:module document="m72462"/>
             <col:module document="m59050"/>
-            <col:module document="m59051"/>
-            <col:module document="m59052"/>
+            <col:module document="m72463"/>
+            <col:module document="m72464"/>
             <col:module document="m59053"/>
-            <col:module document="m59055"/>
+            <col:module document="m72465"/>
           </col:content>
         </col:subcollection>
         <col:subcollection>
           <md:title>The Courts</md:title>
           <col:content>
-            <col:module document="m59059"/>
+            <col:module document="m72466"/>
             <col:module document="m59060"/>
-            <col:module document="m59061"/>
-            <col:module document="m59062"/>
-            <col:module document="m59064"/>
+            <col:module document="m72467"/>
+            <col:module document="m72468"/>
+            <col:module document="m72469"/>
             <col:module document="m59068"/>
           </col:content>
         </col:subcollection>
@@ -168,10 +168,10 @@
           <md:title>State and Local Government</md:title>
           <col:content>
             <col:module document="m59069"/>
-            <col:module document="m59070"/>
+            <col:module document="m72470"/>
             <col:module document="m59071"/>
-            <col:module document="m59072"/>
-            <col:module document="m59074"/>
+            <col:module document="m72471"/>
+            <col:module document="m72472"/>
             <col:module document="m59075"/>
           </col:content>
         </col:subcollection>
@@ -185,30 +185,30 @@
           <col:content>
             <col:module document="m59076"/>
             <col:module document="m59077"/>
-            <col:module document="m59078"/>
-            <col:module document="m59079"/>
-            <col:module document="m59080"/>
+            <col:module document="m72473"/>
+            <col:module document="m72474"/>
+            <col:module document="m72475"/>
           </col:content>
         </col:subcollection>
         <col:subcollection>
           <md:title>Domestic Policy</md:title>
           <col:content>
             <col:module document="m59081"/>
-            <col:module document="m59082"/>
+            <col:module document="m72476"/>
             <col:module document="m59083"/>
             <col:module document="m59084"/>
             <col:module document="m59085"/>
-            <col:module document="m59086"/>
+            <col:module document="m72477"/>
           </col:content>
         </col:subcollection>
         <col:subcollection>
           <md:title>Foreign Policy</md:title>
           <col:content>
-            <col:module document="m59087"/>
-            <col:module document="m59088"/>
-            <col:module document="m59089"/>
-            <col:module document="m59090"/>
-            <col:module document="m59091"/>
+            <col:module document="m72482"/>
+            <col:module document="m72487"/>
+            <col:module document="m72488"/>
+            <col:module document="m72489"/>
+            <col:module document="m72490"/>
           </col:content>
         </col:subcollection>
       </col:content>
